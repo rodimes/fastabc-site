@@ -22,8 +22,8 @@ public class SiteServiceApplication {
 	}
 
 	private List<Book> bookList = Arrays.asList(
-			new Book(1L, "Teste", "Tim Schimandle"),
-			new Book(2L, "Baeldung goes to the park", "Slavisa")
+			new Book(1L, "Teste", "Livro 1"),
+			new Book(2L, "Teste 2", "Livro 2")
 	);
 
 
